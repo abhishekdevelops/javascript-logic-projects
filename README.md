@@ -33,6 +33,8 @@ Projects are organized based on increasing difficulty — from basic to intermed
 |-------|----------------------------------------|---------------------|
 | 15    | Find the Longest Word in a Sentence   | [Find-Longest-Word](https://github.com/abhishekdevelops/Find-Longest-Word) |
 | 16    | Check If Two Strings Are Anagrams     | [check-anagram](https://github.com/abhishekdevelops/check-anagram) |
+| 17    | Title Case a Sentence                  | [title-case-sentence](https://github.com/abhishekdevelops/title-case-sentence) |
+
 
 ---
 
